@@ -38,7 +38,7 @@ Alternatively, use [ModFinder](https://www.nexusmods.com/warhammer40kroguetrader
 It should be fine to install the mod in an existing game at any point, although obviously it's primarily intended for new games.
 
 ## Known Issues
-This mod replaces the vanilla localisation strings for the player ship names. As such, it is not compatible with any other mod that also replaces the same strings. GUID: `d79789cb-a035-4a4c-9551-adf8633cad4d`.
+This mod replaces the vanilla localisation string for the player ship names. As such, it is not compatible with any other mod that also replaces the same string. GUID: `d79789cb-a035-4a4c-9551-adf8633cad4d`.
 
 Currently the mod only replaces the names for the English localisation. Other languages will continue to use the vanilla set of names. If anyone wants to contribute localised versions in another language, let me know.
 
